@@ -14,4 +14,4 @@ A secure and customizable **password generator** that helps you create strong, r
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone [https://github.com/amitvishwakarma8881/Password_Generator.git]
